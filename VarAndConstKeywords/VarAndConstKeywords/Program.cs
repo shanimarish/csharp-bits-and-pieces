@@ -39,7 +39,7 @@ namespace VarAndConstKeywords
             //It is helpful to avoid lot of typos and not declare any variable again and again in the code.
 
             const int vat = 20;
-            const double percentVAT = vat / 100D
+            const double percentVAT = vat / 100D;
             Console.WriteLine(vat);
 
             int balance = 1000;
