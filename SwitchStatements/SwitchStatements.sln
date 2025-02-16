@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchStatements", "SwitchStatements\SwitchStatements.csproj", "{E787D909-327B-41AC-BA3E-A105E9F7A53F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchStatements", "SwitchStatements\SwitchStatements.csproj", "{697492D1-DF2F-49C3-8ADA-9941A6E322DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E787D909-327B-41AC-BA3E-A105E9F7A53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E787D909-327B-41AC-BA3E-A105E9F7A53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E787D909-327B-41AC-BA3E-A105E9F7A53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E787D909-327B-41AC-BA3E-A105E9F7A53F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697492D1-DF2F-49C3-8ADA-9941A6E322DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697492D1-DF2F-49C3-8ADA-9941A6E322DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697492D1-DF2F-49C3-8ADA-9941A6E322DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697492D1-DF2F-49C3-8ADA-9941A6E322DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B4560ACF-B85F-4BE3-B0F2-98841DD79A21}
+		SolutionGuid = {7E48C927-EEE8-48BD-8EA5-B9EB51F8734C}
 	EndGlobalSection
 EndGlobal

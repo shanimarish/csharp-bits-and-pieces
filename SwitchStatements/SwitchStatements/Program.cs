@@ -15,23 +15,33 @@ namespace SwitchStatements
 
             switch (day)
             {
-                case 1: Console.WriteLine("Monday");
+                case 1:
+                    Console.WriteLine("Monday");
                     break;
-                case 2: Console.WriteLine("Tuesday");
+                case 2:
+                    Console.WriteLine("Tuesday");
                     break;
-                case 3: Console.WriteLine("Wednesday");
+                case 3:
+                    Console.WriteLine("Wednesday");
                     break;
-                case 4: Console.WriteLine("Thursday");
+                case 4:
+                    Console.WriteLine("Thursday");
                     break;
-                case 5: Console.WriteLine("Friday");
+                case 5:
+                    Console.WriteLine("Friday");
                     break;
-                case 6: Console.WriteLine("Saturday");
+                case 6:
+                    Console.WriteLine("Saturday");
                     break;
-                case 7: Console.WriteLine("Sunday");
+                case 7:
+                    Console.WriteLine("Sunday");
                     break;
-                default: Console.WriteLine("Invalid, enter a value between 1 and 7!");
+                default:
+                    Console.WriteLine("Invalid, enter a value between 1 and 7!");
                     break;
             }
+
+            Console.ReadLine();
         }
     }
 }
